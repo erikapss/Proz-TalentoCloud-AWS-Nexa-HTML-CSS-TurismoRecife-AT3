@@ -1,0 +1,52 @@
+span {
+    display:flex;
+    justify-content:space-around;
+}
+
+nav {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+    background: rgb(27, 2, 123);
+        
+    height: 3rem;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    
+}
+
+ul#footer{
+    display:flex;
+    /*flex-direction: column;*/
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(184, 43, 43);
+    height: 3rem;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+/* link que foi visitado */
+a:visited {
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+a#linkmaps{
+    color: rgb(27, 2, 123);
+}
+
+body {
+    background-color: rgb(207, 216, 235);
+    font-family: Arial, Helvetica, sans-serif;
+}

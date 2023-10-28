@@ -17,12 +17,10 @@ ul {
     display: flex;
     list-style: none;
     gap: 3rem;
-    
 }
 
 ul#footer{
     display:flex;
-    /*flex-direction: column;*/
     justify-content:space-around;
     align-items: center;
     background-color: rgb(184, 43, 43);

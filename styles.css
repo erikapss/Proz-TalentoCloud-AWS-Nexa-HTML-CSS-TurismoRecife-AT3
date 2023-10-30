@@ -48,3 +48,12 @@ body {
     background-color: rgb(207, 216, 235);
     font-family: Arial, Helvetica, sans-serif;
 }
+
+h1, h2, div {
+    display: flex;
+    justify-content: center;
+}
+
+.endereco {
+    text-align: center;
+}

@@ -8,3 +8,6 @@ Veja vídeo demonstrativo da proposta da página usando apenas HTML: https://www
 
 Etapa 2:
 Vídeo exibindo a inclusão das CSS: https://www.loom.com/share/09a9a692793e43b29135779d05b271e5?sid=5041d279-61a9-41fe-b95c-ebe3dff121c7
+
+Etapa 3:
+Inclusão dos aprendizados com flexbox e class: https://www.loom.com/share/5124ddf25f0541b6aea9cb792afb6219?sid=ca0ba350-ea51-4b88-9065-c41d647d57cb
